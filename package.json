@@ -1,0 +1,8 @@
+{
+  "name": "imagescomparer",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "resemblejs": "^3.2.3"
+  }
+}
